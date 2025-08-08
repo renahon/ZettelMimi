@@ -1,7 +1,7 @@
-# "Titre" by Auteur (Année)
+# "Titre" by Auteurice (Année)
 
 ## Bibliographic Information
-- Author : 
+- Author : [author name](link)
 - Title : 
 - Publisher : 
 - Year : 
@@ -12,7 +12,8 @@
 -
 ## Relevant Quotes
 > " " 
+
 > " " 
 
 ## Linked notes 
-- [Daily thoughts 24/05](inbox/20250424092512-daily-thoughts.md)
+- [Note Name](link)
