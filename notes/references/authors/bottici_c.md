@@ -11,28 +11,26 @@
 - Domaines de recherche : 
     - [Gender Studies](themes/gender_studies.md)
     - Philosophy
-- Réalisations notables : 
+<!-- - Réalisations notables :  -->
 
 ## Publications
 ### Livres
-- [Titre du livre](link) (Année)
-- 
+- [Manifeste anarcha-féministe](../books/manifeste-anarcha-feministe.md) (2022)
 
-### Articles/Papers
+
+<!-- ### Articles/Papers
 - [Titre de l'article](link) (Année)
-- 
+-  -->
 
-## Idées Principales/Contributions
+<!-- ## Idées Principales/Contributions
 - 
 - 
-- 
+-  -->
 
-## Citations Notables
+<!-- ## Citations Notables
 > " " 
 
-> " " 
+> " "  -->
 
 ## Notes Liées
-- [Note Name](link)
-- [Autre auteur](link)
-- [Concept](link)
+- [Fiche de lecture "Manifeste anarcha-féministe"](../books/manifeste-anarcha-feministe.md)
